@@ -64,8 +64,6 @@ Aplicación Full Stack enfocada en la administración y comprensión de las fina
 [![Abrir Cifrya](https://img.shields.io/badge/Cifrya-Abrir%20aplicaci%C3%B3n-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cifrya.com/)
 [![Probar demo](https://img.shields.io/badge/Demo-Probar%20Cifrya-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://cifrya.com/demo)
 
-[Frontend](https://github.com/cifrya/Cifrya) · [Backend](https://github.com/cifrya/CifryaServer)
-
 ### Portafolio profesional
 
 Portafolio web responsivo desarrollado con React y Vite para presentar proyectos, habilidades técnicas y canales de contacto.
