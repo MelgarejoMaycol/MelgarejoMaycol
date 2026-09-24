@@ -54,14 +54,17 @@ Me interesa todo el ciclo de desarrollo: análisis de requerimientos, diseño de
 
 ## Proyectos destacados
 
-### Fynar · Plataforma de gestión financiera
+### Cifrya · Plataforma de gestión financiera
 
-Aplicación Full Stack enfocada en la administración de finanzas personales. Incluye autenticación segura, cuentas, movimientos, presupuestos, reportes y gestión de múltiples espacios de trabajo.
+Aplicación Full Stack enfocada en la administración y comprensión de las finanzas personales. Centraliza cuentas, movimientos, presupuestos, reportes, obligaciones financieras y múltiples espacios de trabajo desde una experiencia moderna y orientada a producto.
 
 **Frontend:** React 19, TypeScript, Vite, TanStack Query, React Hook Form, Zod y Zustand.  
 **Backend:** Node.js, Express, TypeScript, Prisma y PostgreSQL.
 
-[Frontend](https://github.com/MelgarejoMaycol/frontFynar) · [Backend](https://github.com/MelgarejoMaycol/BackFynar)
+[![Abrir Cifrya](https://img.shields.io/badge/Cifrya-Abrir%20aplicaci%C3%B3n-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cifrya.com/)
+[![Probar demo](https://img.shields.io/badge/Demo-Probar%20Cifrya-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://cifrya.com/demo)
+
+[Frontend](https://github.com/cifrya/Cifrya) · [Backend](https://github.com/cifrya/CifryaServer)
 
 ### Portafolio profesional
 
