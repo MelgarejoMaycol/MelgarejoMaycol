@@ -54,27 +54,66 @@ Me interesa todo el ciclo de desarrollo: análisis de requerimientos, diseño de
 
 ## Proyectos destacados
 
+> **Disponibilidad de los proyectos:** algunos proyectos utilizan servidores o servicios gratuitos que pueden entrar en reposo por inactividad. Si una aplicación no responde en el primer intento, espera aproximadamente **5 minutos** y vuelve a abrirla. **Cifrya permanece activa de forma continua.**
+
 ### Cifrya · Plataforma de gestión financiera
 
-Aplicación Full Stack enfocada en la administración y comprensión de las finanzas personales. Centraliza cuentas, movimientos, presupuestos, reportes, obligaciones financieras y múltiples espacios de trabajo desde una experiencia moderna y orientada a producto.
+Aplicación Full Stack para centralizar y comprender las finanzas personales: cuentas, movimientos, presupuestos, reportes, obligaciones financieras y espacios de trabajo, con una experiencia moderna y orientada a producto.
 
 **Frontend:** React 19, TypeScript, Vite, TanStack Query, React Hook Form, Zod y Zustand.  
 **Backend:** Node.js, Express, TypeScript, Prisma y PostgreSQL.
 
 [![Abrir Cifrya](https://img.shields.io/badge/Cifrya-Abrir%20aplicaci%C3%B3n-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cifrya.com/)
-[![Probar demo](https://img.shields.io/badge/Demo-Probar%20Cifrya-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://cifrya.com/demo)
+
+### TrackFile · Gestión documental
+
+Sistema multiplataforma desarrollado como proyecto de grado para gestionar, consultar y dar seguimiento a documentos y archivos digitales. Incluye integración entre cliente, API y base de datos.
+
+**Tecnologías:** Flutter, Dart, APIs REST y arquitectura Full Stack.
+
+[![Abrir TrackFile](https://img.shields.io/badge/TrackFile-Abrir%20aplicaci%C3%B3n-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trackfile.vercel.app/)
+[![Repositorio](https://img.shields.io/badge/Frontend-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/TRACKFILE)
+[![Backend](https://img.shields.io/badge/Backend-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/BackTrackfile)
 
 ### Portafolio profesional
 
-Portafolio web responsivo desarrollado con React y Vite para presentar proyectos, habilidades técnicas y canales de contacto.
+Portafolio web responsivo desarrollado con React y Vite para presentar proyectos, experiencia, habilidades técnicas y canales de contacto.
 
-[Demo en vivo](https://melgarejomaycol.vercel.app/) · [Repositorio](https://github.com/MelgarejoMaycol/Portafolio)
+[![Abrir portafolio](https://img.shields.io/badge/Portafolio-Abrir%20p%C3%A1gina-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://melgarejomaycol.vercel.app/)
+[![Repositorio](https://img.shields.io/badge/C%C3%B3digo-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/Portafolio)
 
 ### PokeVerso
 
-Aplicación web desarrollada con React y Vite que consume la PokeAPI para explorar Pokémon, buscar por nombre y gestionar favoritos.
+Aplicación web desarrollada con React y Vite que consume la PokeAPI para explorar Pokémon, realizar búsquedas y gestionar favoritos.
 
-[Repositorio](https://github.com/MelgarejoMaycol/PokeVerso)
+[![Abrir PokeVerso](https://img.shields.io/badge/PokeVerso-Abrir%20aplicaci%C3%B3n-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://poke-verso.vercel.app/)
+[![Repositorio](https://img.shields.io/badge/C%C3%B3digo-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/PokeVerso)
+
+### Otros proyectos públicos
+
+**Sistema To Do**  
+[![Abrir](https://img.shields.io/badge/Abrir-aplicaci%C3%B3n-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://to-do-topaz-sigma.vercel.app/)
+[![Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/SISTEMA_TO_DO-1)
+
+**Empresa Taxis**  
+[![Abrir](https://img.shields.io/badge/Abrir-p%C3%A1gina-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://empresa-taxis.vercel.app/)
+[![Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/Empresa_Taxis)
+
+**Series de Netflix**  
+[![Abrir](https://img.shields.io/badge/Abrir-p%C3%A1gina-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://melgarejomaycol.github.io/Series-de-Netflix/)
+[![Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/Series-de-Netflix)
+
+**COMPU3D**  
+[![Abrir](https://img.shields.io/badge/Abrir-aplicaci%C3%B3n-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://tiendaobjetos.vercel.app/)
+[![Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/Objetos_Web)
+
+**Recetas API**  
+[![Abrir API](https://img.shields.io/badge/Abrir-API-2563EB?style=flat-square&logo=render&logoColor=white)](https://recetas-api-j4p8.onrender.com/)
+[![Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/recetas-api)
+
+**Recetas Frontend**  
+[![Abrir](https://img.shields.io/badge/Abrir-aplicaci%C3%B3n-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://recetas-ts.vercel.app/)
+[![Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/Recetas-TS)
 
 ## Enfoque de desarrollo
 
