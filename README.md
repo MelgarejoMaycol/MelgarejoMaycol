@@ -88,6 +88,14 @@ Sistema multiplataforma desarrollado como proyecto de grado para gestionar, cons
 [![Repositorio](https://img.shields.io/badge/Frontend-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/TRACKFILE)
 [![Backend](https://img.shields.io/badge/Backend-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/BackTrackfile)
 
+### Recetas TS · React + TypeScript con código público
+
+Aplicación de recetas desarrollada con React y TypeScript. El código permite revisar tipos,
+consumo de API, normalización de datos, traducciones y pruebas automatizadas de comportamiento.
+
+[Repositorio y pruebas](https://github.com/MelgarejoMaycol/Recetas-TS)
+· [Aplicación](https://recetas-ts.vercel.app/)
+
 ### Portafolio profesional
 
 Portafolio web responsivo desarrollado con React y Vite para presentar proyectos, experiencia, habilidades técnicas y canales de contacto.
@@ -103,6 +111,9 @@ Aplicación web desarrollada con React y Vite que consume la PokeAPI para explor
 
 [![Abrir PokeVerso](https://img.shields.io/badge/PokeVerso-Abrir%20aplicaci%C3%B3n-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://poke-verso.vercel.app/)
 [![Repositorio](https://img.shields.io/badge/C%C3%B3digo-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/PokeVerso)
+
+<details>
+<summary><strong>Otros proyectos públicos y ejercicios de formación</strong></summary>
 
 ### Otros proyectos públicos
 
@@ -129,6 +140,8 @@ Aplicación web desarrollada con React y Vite que consume la PokeAPI para explor
 **Recetas Frontend**  
 [![Abrir](https://img.shields.io/badge/Abrir-aplicaci%C3%B3n-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://recetas-ts.vercel.app/)
 [![Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/Recetas-TS)
+
+</details>
 
 ## Enfoque de desarrollo
 
