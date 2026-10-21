@@ -62,9 +62,11 @@ Mis proyectos personales y académicos no se presentan automáticamente como exp
 
 ## Proyectos destacados
 
-> **Disponibilidad de los proyectos:** algunos proyectos utilizan servidores o servicios gratuitos que pueden entrar en reposo por inactividad. Si una aplicación no responde en el primer intento, espera aproximadamente **5 minutos** y vuelve a abrirla. **Cifrya permanece activa de forma continua.**
+> **Disponibilidad de los proyectos:** algunos proyectos utilizan servidores o servicios gratuitos que pueden entrar en reposo por inactividad. Si una aplicación está en un plan gratuito puede necesitar iniciar su servidor antes de responder. Los tiempos y la disponibilidad dependen del proveedor.
 
 ### Cifrya · Plataforma de gestión financiera
+
+[Consultar mi explicación técnica de Cifrya](https://melgarejomaycol.vercel.app/#caso-cifrya) (arquitectura, decisiones, pruebas y responsabilidades).
 
 Aplicación Full Stack para centralizar y comprender las finanzas personales: cuentas, movimientos, presupuestos, reportes, obligaciones financieras y espacios de trabajo, con una experiencia moderna y orientada a producto.
 
@@ -94,6 +96,8 @@ Portafolio web responsivo desarrollado con React y Vite para presentar proyectos
 [![Repositorio](https://img.shields.io/badge/C%C3%B3digo-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/Portafolio)
 
 ### PokeVerso
+
+[![CI](https://github.com/MelgarejoMaycol/PokeVerso/actions/workflows/ci.yml/badge.svg)](https://github.com/MelgarejoMaycol/PokeVerso/actions/workflows/ci.yml)
 
 Aplicación web desarrollada con React y Vite que consume la PokeAPI para explorar Pokémon, realizar búsquedas y gestionar favoritos.
 
