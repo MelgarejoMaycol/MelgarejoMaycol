@@ -2,7 +2,7 @@
 
 # Maycol Melgarejo
 
-### Full Stack Developer · JavaScript / TypeScript · React · Node.js
+### Desarrollador Full Stack junior · React · TypeScript · Node.js
 
 Desarrollo aplicaciones web completas, APIs REST y soluciones orientadas a negocio, cuidando tanto la experiencia de usuario como la arquitectura, seguridad y mantenibilidad del código.
 
@@ -50,7 +50,15 @@ Me interesa todo el ciclo de desarrollo: análisis de requerimientos, diseño de
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-**Otros conocimientos:** Vue.js, PHP, Laravel, Java y Spring Boot.
+**Conocimientos complementarios:** Vue.js, PHP, Laravel, Java, Spring Boot, Flutter/Dart, Three.js y Blender. Mi enfoque principal es React, TypeScript, Node.js y PostgreSQL; estas otras tecnologías representan experiencia práctica o formación adicional, no la misma profundidad en todas.
+
+## Hojas de vida actualizadas
+
+- [CV Full Stack (React / Node.js)](https://melgarejomaycol.vercel.app/cv/CV_Maycol_Melgarejo_Full_Stack.pdf)
+- [CV Frontend (React / TypeScript)](https://melgarejomaycol.vercel.app/cv/CV_Maycol_Melgarejo_Frontend.pdf)
+- [CV Backend (Node.js / PostgreSQL)](https://melgarejomaycol.vercel.app/cv/CV_Maycol_Melgarejo_Backend.pdf)
+
+Mis proyectos personales y académicos no se presentan automáticamente como experiencia laboral contratada.
 
 ## Proyectos destacados
 
@@ -64,6 +72,9 @@ Aplicación Full Stack para centralizar y comprender las finanzas personales: cu
 **Backend:** Node.js, Express, TypeScript, Prisma y PostgreSQL.
 
 [![Abrir Cifrya](https://img.shields.io/badge/Cifrya-Abrir%20aplicaci%C3%B3n-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cifrya.com/)
+[![Demo pública](https://img.shields.io/badge/Demo-probar%20sin%20registro-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cifrya.com/demo)
+
+> Código fuente de Cifrya en repositorios privados mientras el producto sigue en desarrollo. El nombre histórico de algunos repositorios sigue siendo «Fynar»; no son proyectos independientes.
 
 ### TrackFile · Gestión documental
 
