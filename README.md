@@ -2,9 +2,9 @@
 
 # Maycol Melgarejo
 
-### Desarrollador Full Stack junior · React · TypeScript · Node.js
+### Desarrollador Frontend Junior · React · TypeScript · UI responsiva
 
-Desarrollo aplicaciones web completas, APIs REST y soluciones orientadas a negocio, cuidando tanto la experiencia de usuario como la arquitectura, seguridad y mantenibilidad del código.
+Construyo interfaces web responsivas con React y TypeScript. Me interesa convertir necesidades reales en experiencias claras, accesibles y mantenibles, integradas con APIs y servicios.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20proyectos-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://melgarejomaycol.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-MelgarejoMaycol-181717?style=for-the-badge&logo=github)](https://github.com/MelgarejoMaycol)
@@ -16,24 +16,21 @@ Desarrollo aplicaciones web completas, APIs REST y soluciones orientadas a negoc
 
 ## Sobre mí
 
-Soy desarrollador de software con enfoque **Full Stack**, orientado a construir productos que resuelvan problemas reales y puedan mantenerse y evolucionar en el tiempo.
+Soy **Tecnólogo en Desarrollo de Sistemas Informáticos** y desarrollador con enfoque **Frontend**, especialmente en **React, TypeScript, JavaScript, HTML y CSS**. Busco oportunidades **Frontend Junior**, preferiblemente remotas, donde pueda aportar en interfaz y experiencia de usuario.
 
-Trabajo especialmente con **JavaScript y TypeScript**, desarrollando interfaces modernas con **React**, servicios y APIs con **Node.js / Express**, y persistencia de datos con **PostgreSQL, MySQL y Prisma**.
+En Cifrya y otros proyectos he trabajado con componentes, formularios, navegación, consumo de APIs REST, validaciones, manejo de errores y adaptación a móviles. También conozco **Node.js / Express y PostgreSQL**: esa base me ayuda a trabajar mejor con backend, sin presentarme como especialista en todas las áreas.
 
-Me interesa todo el ciclo de desarrollo: análisis de requerimientos, diseño de interfaces, arquitectura, modelado de datos, autenticación, pruebas, integración continua y despliegue.
+Me interesa el ciclo completo de construcción de una interfaz: entender el problema, organizar la información, cuidar jerarquía visual y accesibilidad, implementar componentes, probar y mejorar tras recibir retroalimentación.
 
 ## Qué puedo aportar
 
-- Desarrollo de interfaces responsivas y orientadas a una buena experiencia de usuario.
-- Diseño e implementación de **APIs REST** y lógica de negocio.
-- Integración frontend / backend y manejo de estados asíncronos.
-- Modelado y gestión de bases de datos relacionales.
-- Autenticación, autorización y buenas prácticas de seguridad web.
-- Código modular, mantenible y organizado por responsabilidades.
-- Testing, control de versiones con Git y flujos de CI/CD.
-- Despliegue de aplicaciones web y servicios en la nube.
+- **React + TypeScript:** componentes reutilizables, organización de vistas y tipado.
+- **UI web responsiva:** HTML semántico, CSS, jerarquía visual y atención a accesibilidad.
+- **Integración con APIs:** formularios, validación, autenticación y estados de carga/error.
+- **Calidad del código:** pruebas, revisión técnica, Git, CI y despliegues.
+- **Conexión con backend:** conocimientos de Node.js, Express y PostgreSQL para integrar productos de extremo a extremo.
 
-## Stack principal
+## Tecnologías con las que trabajo
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -50,13 +47,11 @@ Me interesa todo el ciclo de desarrollo: análisis de requerimientos, diseño de
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-**Conocimientos complementarios:** Vue.js, PHP, Laravel, Java, Spring Boot, Flutter/Dart, Three.js y Blender. Mi enfoque principal es React, TypeScript, Node.js y PostgreSQL; estas otras tecnologías representan experiencia práctica o formación adicional, no la misma profundidad en todas.
+**Conocimientos complementarios:** Vue.js, PHP, Laravel, Java, Spring Boot, Flutter/Dart, Three.js y Blender. Mi foco profesional es React, TypeScript y el desarrollo de interfaces; las demás tecnologías representan conocimiento práctico o formación adicional, no dominio equivalente en todas.
 
-## Hojas de vida actualizadas
+## Hoja de vida
 
-- [CV Full Stack (React / Node.js)](https://melgarejomaycol.vercel.app/cv/CV_Maycol_Melgarejo_Full_Stack.pdf)
-- [CV Frontend (React / TypeScript)](https://melgarejomaycol.vercel.app/cv/CV_Maycol_Melgarejo_Frontend.pdf)
-- [CV Backend (Node.js / PostgreSQL)](https://melgarejomaycol.vercel.app/cv/CV_Maycol_Melgarejo_Backend.pdf)
+El **[CV Frontend (React / TypeScript)](https://melgarejomaycol.vercel.app/cv/CV_Maycol_Melgarejo_Frontend.pdf)** es mi versión principal. En el [portafolio](https://melgarejomaycol.vercel.app/) también puedes previsualizarla en un modal y consultar las versiones [Full Stack](https://melgarejomaycol.vercel.app/cv/CV_Maycol_Melgarejo_Full_Stack.pdf) y [Backend](https://melgarejomaycol.vercel.app/cv/CV_Maycol_Melgarejo_Backend.pdf), según la vacante.
 
 Mis proyectos personales y académicos no se presentan automáticamente como experiencia laboral contratada.
 
@@ -66,7 +61,7 @@ Mis proyectos personales y académicos no se presentan automáticamente como exp
 
 ### Cifrya · Plataforma de gestión financiera
 
-[Consultar mi explicación técnica de Cifrya](https://melgarejomaycol.vercel.app/#caso-cifrya) (arquitectura, decisiones, pruebas y responsabilidades).
+[Caso de estudio de Cifrya](https://melgarejomaycol.vercel.app/#caso-cifrya) (interfaz, integración con APIs, arquitectura y validación).
 
 Aplicación Full Stack para centralizar y comprender las finanzas personales: cuentas, movimientos, presupuestos, reportes, obligaciones financieras y espacios de trabajo, con una experiencia moderna y orientada a producto.
 
@@ -80,7 +75,7 @@ Aplicación Full Stack para centralizar y comprender las finanzas personales: cu
 
 ### TrackFile · Gestión documental
 
-Sistema multiplataforma desarrollado como proyecto de grado para gestionar, consultar y dar seguimiento a documentos y archivos digitales. Incluye integración entre cliente, API y base de datos.
+Sistema multiplataforma desarrollado como **proyecto de grado** para organizar documentos y seguir procesos. La [ficha técnica pública](https://melgarejomaycol.vercel.app/#caso-trackfile) describe interfaces, alcance y arquitectura, sin divulgar la memoria de grado ni anexos internos.
 
 **Tecnologías:** Flutter, Dart, APIs REST y arquitectura Full Stack.
 
