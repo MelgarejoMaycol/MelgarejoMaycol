@@ -16,7 +16,7 @@ Construyo interfaces web responsivas con React y TypeScript. Me interesa convert
 
 ## Sobre mí
 
-Soy **Tecnólogo en Desarrollo de Sistemas Informáticos** y desarrollador con enfoque **Frontend**, especialmente en **React, TypeScript, JavaScript, HTML y CSS**. Busco oportunidades **Frontend Junior**, preferiblemente remotas, donde pueda aportar en interfaz y experiencia de usuario.
+Finalicé los estudios de **Tecnología en Desarrollo de Sistemas Informáticos** en las Unidades Tecnológicas de Santander. Me enfoco en el desarrollo **Frontend** con **React, TypeScript, JavaScript, HTML y CSS**. Busco oportunidades **Frontend Junior**, preferiblemente remotas, donde pueda aportar en interfaz y experiencia de usuario.
 
 En Cifrya y otros proyectos he trabajado con componentes, formularios, navegación, consumo de APIs REST, validaciones, manejo de errores y adaptación a móviles. También conozco **Node.js / Express y PostgreSQL**: esa base me ayuda a trabajar mejor con backend, sin presentarme como especialista en todas las áreas.
 
@@ -57,7 +57,7 @@ Mis proyectos personales y académicos no se presentan automáticamente como exp
 
 ## Proyectos destacados
 
-> **Disponibilidad de los proyectos:** algunos proyectos utilizan servidores o servicios gratuitos que pueden entrar en reposo por inactividad. Si una aplicación está en un plan gratuito puede necesitar iniciar su servidor antes de responder. Los tiempos y la disponibilidad dependen del proveedor.
+> **Disponibilidad:** las demos pueden depender de servicios externos. Una demora de carga no implica por sí misma que el proyecto esté fuera de línea.
 
 ### Cifrya · Plataforma de gestión financiera
 
@@ -73,16 +73,6 @@ Aplicación Full Stack para centralizar y comprender las finanzas personales: cu
 
 > Código fuente de Cifrya en repositorios privados mientras el producto sigue en desarrollo. El nombre histórico de algunos repositorios sigue siendo «Fynar»; no son proyectos independientes.
 
-### TrackFile · Gestión documental
-
-Sistema multiplataforma desarrollado como **proyecto de grado** para organizar documentos y seguir procesos. La [ficha técnica pública](https://melgarejomaycol.vercel.app/#caso-trackfile) describe interfaces, alcance y arquitectura, sin divulgar la memoria de grado ni anexos internos.
-
-**Tecnologías:** Flutter, Dart, APIs REST y arquitectura Full Stack.
-
-[![Abrir TrackFile](https://img.shields.io/badge/TrackFile-Abrir%20aplicaci%C3%B3n-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trackfile.vercel.app/)
-[![Repositorio](https://img.shields.io/badge/Frontend-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/TRACKFILE)
-[![Backend](https://img.shields.io/badge/Backend-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/BackTrackfile)
-
 ### Recetas TS · React + TypeScript con código público
 
 Aplicación de recetas desarrollada con React y TypeScript. El código permite revisar tipos,
@@ -90,6 +80,16 @@ consumo de API, normalización de datos, traducciones y pruebas automatizadas de
 
 [Repositorio y pruebas](https://github.com/MelgarejoMaycol/Recetas-TS)
 · [Aplicación](https://recetas-ts.vercel.app/)
+
+### TrackFile · Gestión documental
+
+Sistema multiplataforma desarrollado en equipo como **proyecto de grado**. Diseñé/documenté PostgreSQL, programé el cliente Flutter/Dart, realicé pruebas y preparé la versión web y APK. Mi compañera lideró el backend Java/Spring Boot. La [ficha técnica pública](https://melgarejomaycol.vercel.app/#caso-trackfile) describe interfaces, alcance y arquitectura, sin divulgar la memoria de grado ni anexos internos.
+
+**Tecnologías del proyecto:** Flutter, Dart, PostgreSQL y API REST en Spring Boot (backend a cargo principalmente de mi compañera).
+
+[![Abrir TrackFile](https://img.shields.io/badge/TrackFile-Abrir%20aplicaci%C3%B3n-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trackfile.vercel.app/)
+[![Repositorio](https://img.shields.io/badge/Frontend-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/TRACKFILE)
+[![Backend](https://img.shields.io/badge/Backend-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/BackTrackfile)
 
 ### Portafolio profesional
 
@@ -131,10 +131,6 @@ Aplicación web desarrollada con React y Vite que consume la PokeAPI para explor
 **Recetas API**  
 [![Abrir API](https://img.shields.io/badge/Abrir-API-2563EB?style=flat-square&logo=render&logoColor=white)](https://recetas-api-j4p8.onrender.com/)
 [![Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/recetas-api)
-
-**Recetas Frontend**  
-[![Abrir](https://img.shields.io/badge/Abrir-aplicaci%C3%B3n-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://recetas-ts.vercel.app/)
-[![Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MelgarejoMaycol/Recetas-TS)
 
 </details>
 
