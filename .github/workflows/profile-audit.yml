@@ -1,0 +1,43 @@
+name: Presentación profesional para reclutadores
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/audit-perfiles.mjs
+      - .github/workflows/profile-audit.yml
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/audit-perfiles.mjs
+      - .github/workflows/profile-audit.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  public-review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Preparar navegador aislado
+        run: |
+          npm install --no-save --package-lock=false playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - name: Revisar enlaces y capturar perfiles públicos
+        run: node scripts/audit-perfiles.mjs
+      - name: Guardar capturas para revisión humana
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: evidencia-perfiles-reclutador
+          path: qa-perfiles/
+          if-no-files-found: warn
+          retention-days: 14
