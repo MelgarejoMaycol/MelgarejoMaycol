@@ -1,69 +1,51 @@
 <div align="center">
 
 # Maycol Melgarejo
+### Desarrollador de software junior · Especialidad Frontend React + TypeScript
 
-**Desarrollador Frontend Junior · React · TypeScript · Integración de APIs**
+**Desarrollo interfaces con React y TypeScript, integradas con APIs REST.** Mis proyectos permiten revisar formularios, navegación responsiva, validaciones y pruebas de código; también construyo servicios con Node.js y PostgreSQL.
 
-Construyo interfaces web responsivas, formularios y experiencias conectadas a servicios REST. También desarrollo proyectos con Node.js, Express y PostgreSQL.
+**[Ver portafolio y proyectos](https://melgarejomaycol.vercel.app/)** · **[CV Frontend (PDF)](https://melgarejomaycol.vercel.app/cv/CV_Maycol_Melgarejo_Frontend.pdf)** · **[LinkedIn](https://www.linkedin.com/in/maycol-melgarejo-a59bb9322/)** · **[Correo](mailto:mfmelgarejo04@gmail.com)**
 
-**Colombia · Disponible para oportunidades junior y trabajo remoto**
-
-[![Portafolio](https://img.shields.io/badge/Portafolio-Ver%20proyectos-1769E0?style=for-the-badge&logo=vercel&logoColor=white)](https://melgarejomaycol.vercel.app/)
-[![CV Frontend](https://img.shields.io/badge/CV-Frontend%20PDF-16395C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://melgarejomaycol.vercel.app/cv/CV_Maycol_Melgarejo_Frontend.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycol-melgarejo-a59bb9322/)
+Colombia · Abierto a oportunidades Frontend Junior · Preferencia por trabajo remoto
 
 </div>
 
-## Qué puedes evaluar de mi trabajo
+---
 
-- **Frontend:** interfaces con React y TypeScript, componentes reutilizables, navegación, validaciones, consumo de APIs y diseño adaptable a móviles.
-- **Integración y backend:** proyectos con Node.js, Express, PostgreSQL, autenticación JWT y reglas de acceso.
-- **Calidad:** Git, pruebas automatizadas, integración continua, documentación y despliegue de aplicaciones.
+## Proyectos que muestran mi trabajo
 
-Busco principalmente oportunidades **Frontend Junior (React/TypeScript)**. También considero vacantes **Full Stack o Backend Junior** cuyos requisitos coincidan con mi experiencia práctica.
-
-## Proyectos seleccionados
-
-| Proyecto | Qué hice y qué puedes revisar | Evidencia |
+| Proyecto | Qué construí y qué puedes evaluar | Evidencia |
 | --- | --- | --- |
-| **Cifrya** · Finanzas personales | Desarrollo el frontend React/TypeScript y servicios Node/Express para cuentas, movimientos, presupuestos y reportes. Es un proyecto personal activo; no afirmo resultados comerciales. | [Probar demo sin registro](https://cifrya.com/demo) · [Caso técnico](https://melgarejomaycol.vercel.app/#caso-cifrya) |
-| **Recetas TS** · Frontend público | Construí la búsqueda y presentación de recetas, integración REST, normalización de textos y pruebas en TypeScript. | [Aplicación](https://recetas-ts.vercel.app/) · [Código y tests](https://github.com/MelgarejoMaycol/Recetas-TS) |
-| **Recetas API** · Backend público | Desarrollé una API independiente con Express, PostgreSQL, JWT, validaciones, pruebas HTTP y documentación Swagger/OpenAPI. | [Swagger](https://recetas-api-k91i.onrender.com/api-docs) · [Código y CI](https://github.com/MelgarejoMaycol/recetas-api) |
-| **TrackFile** · Proyecto de grado en equipo | Diseñé/documenté la base de datos PostgreSQL y desarrollé el cliente Flutter/Dart, integración y pruebas. **Mi compañera lideró el backend Spring Boot.** | [Aplicación](https://trackfile.vercel.app/) · [Código Flutter](https://github.com/MelgarejoMaycol/TRACKFILE) |
+| **Cifrya** · finanzas personales | Interfaces React/TypeScript para cuentas, movimientos, presupuestos y reportes; integración con API y validaciones. También desarrollo servicios Node.js/Express y PostgreSQL. El código del producto es privado, pero la demo es accesible. | [Probar demo sin registro](https://cifrya.com/demo) · [Caso de estudio](https://melgarejomaycol.vercel.app/#caso-cifrya) |
+| **Recetas TS** · frontend público | Búsqueda, navegación, integración con datos externos, traducción de contenido y pruebas automatizadas. | [Código](https://github.com/MelgarejoMaycol/Recetas-TS) · [Demo](https://recetas-ts.vercel.app/) · [CI](https://github.com/MelgarejoMaycol/Recetas-TS/actions/workflows/ci.yml) |
+| **TrackFile** · proyecto de grado en equipo | Diseñé/documenté PostgreSQL, construí el cliente Flutter/Dart e integré la API. **Mi compañera lideró el backend Spring Boot.** | [Aplicación](https://trackfile.vercel.app/) · [Frontend](https://github.com/MelgarejoMaycol/TRACKFILE) · [Caso de estudio](https://melgarejomaycol.vercel.app/#caso-trackfile) |
+| **Recetas API** · backend público | API REST con Express/PostgreSQL, JWT, validación, documentación Swagger y pruebas de integración. | [Código](https://github.com/MelgarejoMaycol/recetas-api) · [Swagger](https://recetas-api-k91i.onrender.com/api-docs/) · [CI](https://github.com/MelgarejoMaycol/recetas-api/actions/workflows/node-ci.yml) |
 
-**También desarrollé este [portafolio en React y Vite](https://github.com/MelgarejoMaycol/Portafolio)**, con tarjetas de proyectos, estudios técnicos, selector de CV y pruebas de interfaz en varios tamaños.
+## Qué puedo aportar
 
-> **Cómo interpretar estas evidencias:** Cifrya, Recetas TS, Recetas API y el portafolio son proyectos personales; TrackFile es académico y colaborativo. No los presento como años de empleo remunerado en desarrollo. El código de Cifrya permanece privado mientras continúa su desarrollo, pero su demo se puede explorar.
+- **React y TypeScript:** componentes, formularios, navegación e interfaces para dispositivos móviles y escritorio.
+- **Integración con APIs:** comunicación frontend/backend, manejo de estados de carga/error y validación de datos.
+- **Calidad y colaboración:** Git, GitHub Actions, pruebas automatizadas, documentación y trabajo en equipo.
+- **Visión full stack complementaria:** Node.js, Express, PostgreSQL y Prisma para entender y construir servicios que consumen las interfaces.
 
-## Tecnologías con evidencia
+**Mi enfoque principal es Frontend Junior.** Los proyectos personales y académicos son evidencia técnica verificable, no años de empleo contratado en desarrollo. También puedo aportar en puestos Full Stack o Backend Junior con requisitos ajustados a mi experiencia.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-222222?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+## Formación y disponibilidad
 
-**Complementarios:** Flutter/Dart, Prisma, JWT, Vercel y Render. Tengo conocimientos de Java/Spring Boot y Docker básico, pero no me presento como especialista en esas tecnologías.
+Estudios finalizados en **Tecnología en Desarrollo de Sistemas Informáticos**, Unidades Tecnológicas de Santander (UTS). No presento un diploma como expedido hasta disponer de la certificación correspondiente.
 
-## Formación y trayectoria
-
-- **Tecnología en Desarrollo de Sistemas Informáticos**, Unidades Tecnológicas de Santander (UTS). **Estudios finalizados en 2026**; no confundo finalización de materias con título expedido.
-- Experiencia laboral complementaria en **atención al cliente, ventas y operación (2021–2025)**; es distinta de la experiencia construyendo software en proyectos.
+Busco oportunidades **Frontend Junior (React/TypeScript)**; también considero cargos Full Stack o Backend Junior cuando la experiencia y los requisitos técnicos coincidan con mis proyectos. Mi experiencia laboral complementaria en atención al cliente, ventas y operación (2021–2025) es independiente de los proyectos de software.
 
 <details>
-<summary><strong>Otros proyectos y ejercicios de formación</strong></summary>
+<summary><strong>Otros proyectos de práctica</strong></summary>
 
-También puedes explorar [PokeVerso](https://github.com/MelgarejoMaycol/PokeVerso) (React + PokeAPI), [Sistema To Do](https://github.com/MelgarejoMaycol/SISTEMA_TO_DO-1) (React + Django REST), [COMPU3D Explorer](https://github.com/MelgarejoMaycol/Objetos_Web) (interfaz con Three.js) y [Empresa Taxis](https://github.com/MelgarejoMaycol/Empresa_Taxis) (sitio académico). Son ejercicios adicionales, no el núcleo de mi candidatura.
+[PokeVerso (React + PokeAPI)](https://github.com/MelgarejoMaycol/PokeVerso) · [COMPU3D (Three.js)](https://github.com/MelgarejoMaycol/Objetos_Web) · [Sistema To Do (React + Django REST)](https://github.com/MelgarejoMaycol/SISTEMA_TO_DO-1).
+
+Son proyectos de formación adicionales. Los cuatro seleccionados arriba concentran la evidencia más relevante para una entrevista junior.
 
 </details>
 
----
+**[Ver portafolio y otras versiones del CV](https://melgarejomaycol.vercel.app/)** · **[Contactarme por correo](mailto:mfmelgarejo04@gmail.com)**
 
-**¿Quieres revisar una implementación o conversar sobre una oportunidad junior?**
-
-[Ver portafolio](https://melgarejomaycol.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/maycol-melgarejo-a59bb9322/) · [Correo](mailto:mfmelgarejo04@gmail.com)
+<sub>Las demos usan servicios externos y pueden tardar en responder. Cifrya es un proyecto personal en desarrollo; su código no está publicado como repositorio abierto.</sub>
